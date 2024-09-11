@@ -23,7 +23,7 @@ bill = float(input())
 
 total = bill * 1.20
 
-print('the total is: $' + "{:.2f}".format(round(total, 2)))
+print('the total is: $' + "{:.2f}".format(round(total, 2))) # I copied someone elses code from stack overflow
 
 # question 3
 
